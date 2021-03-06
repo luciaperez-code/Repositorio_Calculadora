@@ -82,9 +82,10 @@ class RestaTest {
 	}
 
 	
-	//Una vez hechos los test de los métodos, compruebo casos especiales
+	
 	
 	/*
+	 * Una vez hechos los test de los métodos, compruebo casos especiales
 	 * La resta no tiene problemas con pasar 0 por parámetro
 	 * Casos especiales: valores que pasen del límite de double o integer e infinito.
 	 */
