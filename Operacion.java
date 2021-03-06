@@ -18,7 +18,8 @@ public class Operacion {
 	int n1, n2, resultado;
 	double n1real;
 
-	/**
+	/** 
+	
 	 * constructor vacio
 	 */
 
@@ -50,7 +51,7 @@ public class Operacion {
 
 	/**
 	 * getter
-	 * 
+	 * probando GitHub
 	 * @return n1: numero entero de entrada para los metodos esPrimo, I-esimo,
 	 *         factorial
 	 */
