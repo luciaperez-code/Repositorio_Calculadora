@@ -4,7 +4,7 @@ package Apartado5;
 /**
  * Esta clase contiene los parametros de entrada y salida y los metodos para el calculo de operaciones matematicas
  * @author Roberto Diaz
- * @version 1.0
+ * @version 1.1
  * @date 27/01/2021
  */
 
