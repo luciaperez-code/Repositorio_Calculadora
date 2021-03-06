@@ -66,5 +66,5 @@ public class Suma {
 		return acumulado += param1;
 	}
 	
-	//Prueba de cambios
+	//Prueba de cambios 2.0
 }
