@@ -138,7 +138,7 @@ class RestaTest {
 		// 2 - Act - Ejecutar
 		double obtenidoRestaInfinito = cut.restar1(nInfiniteDouble, b);
 				
-		// 3 - Assert = comprobar
+		// 3- Assert = comprobar
 		assertEquals(esperadoRestaInfinito, obtenidoRestaInfinito);
 					
 	}
