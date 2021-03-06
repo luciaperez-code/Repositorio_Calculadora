@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 /**
@@ -18,10 +18,7 @@ public class Operacion {
 	 * n1real numero real de entrada para el metodo del porcentaje
 	 */
 	
-	int n1,n2,resultado;
-	double n1real;
-	
-	
+
 		
 	
 	/**
@@ -189,7 +186,6 @@ public class Operacion {
 	
 
 
-=======
 /**
  * Esta clase contiene los parametros de entrada y salida y los metodos para el
  * calculo de operaciones matematicas
@@ -199,7 +195,7 @@ public class Operacion {
  * @since 27/01/2021
  */
 
-public class Operacion {
+
 
 	/**
 	 * campos de la clase Operacion atributos de instancia n1,n2 numeros enteros de
@@ -215,9 +211,7 @@ public class Operacion {
 	 * constructor vacio
 	 */
 
-	public Operacion() {
-		super();
-	}
+	
 
 	/**
 	 * constructor con todos los parametros de entrada
